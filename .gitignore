@@ -1,2 +1,30 @@
+# Firebase configuration file
+tasks/Stuff/GoogleService-Info.plist
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride# Firebase configuration files
+tasks/tasks/GoogleService-Info.plist
 tasks/tasks/Stuff/GoogleService-Info.plist
-GoogleService-Info.plist
